@@ -1,0 +1,4 @@
+- id: gen-gorm
+  name: Generate GORM
+  entry: generate-gorm.sh
+  language: script
